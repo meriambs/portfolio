@@ -562,7 +562,7 @@ a:focus {
   -----------------------------------------*/
 
 .site-footer {
-  background: var(--dark-color);
+  background: #000000;
   padding: 7em 0 6em 0;
 }
 
